@@ -1,5 +1,4 @@
 ### Hi there 👋
-Software engineering student working on an FYP
 
 <!--
 **Samuel-Yong-991013/Samuel-Yong-991013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
